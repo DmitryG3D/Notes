@@ -1,0 +1,15 @@
+D:\Tools\C#\Notes\Notes\bin\Debug\Notes.exe.config
+D:\Tools\C#\Notes\Notes\bin\Debug\Notes.exe
+D:\Tools\C#\Notes\Notes\bin\Debug\Notes.pdb
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.csprojAssemblyReference.cache
+D:\Tools\C#\Notes\Notes\obj\Debug\MainWindow.g.cs
+D:\Tools\C#\Notes\Notes\obj\Debug\App.g.cs
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes_MarkupCompile.cache
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes_MarkupCompile.lref
+D:\Tools\C#\Notes\Notes\obj\Debug\MainWindow.baml
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.g.resources
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.Properties.Resources.resources
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.csproj.GenerateResource.cache
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.exe
+D:\Tools\C#\Notes\Notes\obj\Debug\Notes.pdb
